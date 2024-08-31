@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ paused()
+comment10.params=y
+comment10.target=void\ move4(int)
+comment11.params=x
+comment11.target=void\ move5(int)
+comment12.params=y
+comment12.target=void\ move6(int)
+comment13.params=x
+comment13.target=void\ move7(int)
+comment2.params=actCount
+comment2.target=void\ setDelay(int)
+comment3.params=health\ speed1
+comment3.target=Enemy(int,\ int)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Enemy\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=int\ getPositionInGrid()
+comment6.params=dmg
+comment6.target=void\ reducehp(int)
+comment6.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment7.params=x
+comment7.target=void\ move1(int)
+comment7.text=public\ void\ death(){\r\n\ \ \ \ if(hp<\=0){\r\n\ \ \ \ getWorld().removeObject(this);\r\n\ \ \ \ //probably\ add\ money\ or\ something\ here\r\n\ \ \ \ }\r\n}
+comment8.params=y
+comment8.target=void\ move2(int)
+comment9.params=x
+comment9.target=void\ move3(int)
+numComments=14
