@@ -1,0 +1,7 @@
+TO OPEN GAME:
+Download Greenfoot: https://www.greenfoot.org/download
+Download Game Files: https://drive.google.com/drive/folders/1zjLDN7UMmkWqXgRBhdRN8u_13kFNIfQA?usp=drive_link
+Open game in greenfoot (scenario -> navigate to game1 folder)
+Right Click on "MyWorld" on the right sidebar
+Click on "new MyWorld()"
+Click on "Run" in the bottom sidebar
